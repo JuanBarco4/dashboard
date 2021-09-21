@@ -1,0 +1,40 @@
+.dashboard-background{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.banner-dashboard h2{
+    margin-top: -25rem;
+}
+
+.banner-dashboard img{
+    width: 6.2rem;
+    align-self: flex-end;
+    position: absolute;
+    margin: 0rem 0rem 0rem 8rem;
+}
+
+.rectangles .rectangle_1{
+    margin: 6rem 0rem 0rem -31rem;
+}
+
+.rectangles .rectangle_2{
+    margin: 6rem -3rem 0rem 10rem;
+}
+
+.squares{
+    max-width: 80rem;
+    border-radius: 4rem 4rem 4rem 4rem;
+    height: 55rem;
+}
+
+.secciones .izquierda{
+ margin: -6rem 0rem 7.7rem 0rem;
+}
+
+.secciones .derecha{
+    margin: -6rem 0rem 7.7rem 0rem;
+}
