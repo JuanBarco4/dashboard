@@ -1,0 +1,9 @@
+.dashboard-background{
+    width: 100vw;
+    height: 100vh;
+}
+
+.squares{
+    max-width: 60rem;
+    border-radius: 4rem 4rem 4rem 4rem;
+}
